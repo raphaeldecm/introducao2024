@@ -19,7 +19,7 @@ O objetivo deste repositório é auxiliar estudantes no aprendizado de lógica d
 
 ## 📂 Estrutura do Repositório
 
-O repositório está organizado da seguinte forma:
+?
 
 ## 🚀 Como Usar
 
@@ -28,7 +28,14 @@ O repositório está organizado da seguinte forma:
    git clone https://github.com/seu-usuario/lista-exercicios.git
    ````
 
-2. Acesse o diretório do repositório:
-  ```bash
-  cd lista-exercicios
-  ```
+## 🎯 Público-Alvo
+Este projeto é voltado para:
+
+Estudantes de Introdução à Programação;
+Autodidatas que desejam aprender a programar;
+Instrutores que procuram material didático para suas aulas.
+
+## 🛠 Tecnologias
+Este projeto utiliza:
+
+Linguagem: Python
